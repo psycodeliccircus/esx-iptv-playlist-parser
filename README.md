@@ -1,4 +1,4 @@
-# esx-iptv-playlist-parser [![Build Status](https://travis-ci.org/psycodeliccircus/esx-iptv-playlist-parser.svg?branch=master)](https://travis-ci.org/psycodeliccircus/esx-iptv-playlist-parser)
+# esx-iptv-playlist-parser
 
 It parses IPTV playlist and converts it to a regular JavaScript object.
 
