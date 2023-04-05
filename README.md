@@ -1,7 +1,7 @@
 # esx-iptv-playlist-parser
 
 It parses IPTV playlist and converts it to a regular JavaScript object.
-
+***
 ## Installation
 
 ```sh
